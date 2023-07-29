@@ -1,0 +1,3 @@
+Unir usuario y coach al registrar
+Poder cerrar modulos
+Poder filtar por los que no dio seguimiento

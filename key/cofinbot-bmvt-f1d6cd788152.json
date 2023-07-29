@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cofinbot-bmvt-default-rtdb",
+  "private_key_id": "f1d6cd788152c2748d0cf0286c187216ea9c9377",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCV/Evk+7/nYzMF\np/rhaXlbIqph49n7GHiXTuY3XxuiAxk1v+wZ5cAR1qeLcdqYyjsW/gTjLG03VT4c\n67SzGIHdxvYGs1uVaBF//7YehigS5UU9wT+l4skY4wPzhougAMZGhtkqcBZO7r0k\ni/tQ2uqEdRJrD6YbKxVcqIaFNsFOumGR5UjNCizR0CxZ09aggm9F3iRccI43br6P\nry+qZAJZHB0/LUkQAKYMNZ6nV5exojJTbg+WRU2pcpfOx1Q6xqdHv3Gg8n7V9Zek\n3lSC7nW508k6b/QxsLjWzrhgPsi5qvdyuH63hZDpjbmukvyt0s738NCFsAwsvOW7\nuLkfPdMjAgMBAAECggEABPNvwJPxgRPXNVKW3NCnKYj6vYHQn5HujnVo8rRNrIq+\n+Z/njUX2PHXXe1TmIFux7k+y8u9z03sZh8mIDM68SrPXSeAAdULFgRzRyC7ULSYq\n+PTjbaMPfFDSFTyAaLxdzyottPw/iu96iDWkCsaPLebSFX1OFbYrCFn6cXSd65lS\nc6Y40hcCI6SJRVeKiXNAielRjgBNyUYeIfHNcA1GDPSRDWFkFKKugGwCM+6PYQ3B\nXjpL/r0e431yMESqY71KMDWGF6T9Y8dy97Pbe9WEsFVf4LVnrOcYGm8HlUlG7G1a\nUTr8oi7Fn4r23bwv2fK+sdEBAh0cS96J472opeJVYQKBgQDR2+2yonDe4E9/z5hv\nbaU1AVtSe/80UISX89qKD02r8Uxs1VC7U84fuChPuJxNRutpPQQb8LDmzeNZEU1C\nbTpGmMot8/dKhlUA++zGaB4D7EMr2Fy2lSNt7+Bz1ek+GyB3Et4BhRXI0GfY9cXY\nbo3OALULF5gce1WF7Ag54TZ2CQKBgQC29ldN3Z8xs88kEtp1/d/pRF7ASSW4Yk+Y\ncMOZyhnL7OfUKEBBmkNaBN1E13KOYyn+qAG1/VTwXt9vm3PqyHVZpH/rGeFI469A\nsNBcC7TZj8k7tOqRCpeWTGhjbZhWRVyoJSmNtFxlw2c6z6JGJ3PyTfhNEYpv2mgx\nEzHAslrqywKBgQC+sbosuK8X13xmB53coyWcJL93FHWyc/gIm+3Zxk4uD/YCb1QM\n5PpImG8JAhgFoIwJ9Qfm26/kCvKr3Kz3z4lE3VHar/XmImrbmhBtue6MYgQns1OM\nFbk8DN1IZPitFrlJejuB5g0FjVrQK4S8RrlUmA/rJGV0fB4as4BGGAAFAQKBgBRH\neaXHyr1XkL4O2Of7G7ZfPaFSejvVqbzbwtJo9DMGLyv0yip7TrvLjjrzJl9h3mW7\neXUSfzelTF6yfEapsVgeQ49rbu0FT4d8EZwiMAltRoC3rMgmxGaEUY2zuA7X4U1B\n0TlDpHojDm4WVYYxGUjiG4NvTkjXjHTkC7+wBSPBAoGAHmQoOwCQur6EefVRV8nW\n4UEgI0zUp9X56eHka5zL/fMB0Fk16IxRB3iGHrVGLmXNEiffCCIBWEafBIlS6XVi\n59mSrW4MNePE7L/QRpcoTCo37JLnqACDIpWT0ZhN3CKH46VltYOM7YSXrGNN2MNV\nMTBeya19YockDqGZc+6MPvg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-e0ezl@cofinbot-bmvt.iam.gserviceaccount.com",
+  "client_id": "110106699503666343037",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-e0ezl%40cofinbot-bmvt.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
